@@ -5,7 +5,7 @@ This client really did not know what she wants.  Actually, she did not even know
 
 The owner of this very small business in Lady Lake, Florida is apparently extremely naive or unaware of how the Internet operates.  When the business was opened (in a very small building on a rural road, off the main highway) the URL _primpindogs.com_ was painted in very, __very__ large letters on the front picture window
 
-![PrimpinDogs.com in 2-foot letters on the front of the building]()
+![PrimpinDogs.com in 2-foot letters on the front of the building](primpindogs.jpg)
 
 One day, my "professional curiousity" led me to visit that domain with a browser.  It returned a 404.  I assumed the upcoming site had not yet been developed.  Fueled now to investigate further I checked the WHOIS record.  I wondered how long ago the domain had been registered and contemplated offering to help the sturggling small business-owner (gratis, of course).
 

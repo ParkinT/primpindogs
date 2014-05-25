@@ -1,7 +1,7 @@
 primpindogs
 ===========
 
-[![Hack ParkinT/primpindogs on Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-s-v1-7475db0cf93fe5d1e29420c928ebc614.png)](https://www.nitrous.io/hack_button?source=embed&runtime=php&repo=ParkinT%2Fprimpindogs&file_to_open=README.md)
+[![PrimpinDogs is 'Nitrous Charged'](https://gist.githubusercontent.com/ParkinT/22e59e6b450d4694431a/raw/d2bde10f78da6fd5b438f0cb726b09f527d48bbf/NitrousCharged.png)](https://www.nitrous.io/hack_button?source=embed&runtime=php&repo=ParkinT%2Fprimpindogs&file_to_open=README.md)
 
 Simple, static HTML site (thanks to Github Pages)
 

@@ -1,0 +1,172 @@
+{
+  "settings": {
+    "currentPage": "index.html"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Primpin' Dogs [352.753.5858]",
+        "meta_descr": "Primpin' Dogs is easy and convenient to The Villages, Lady Lake and Leesburg.  We care for your pet like YOU would",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->"
+      },
+      "components": [
+        {
+          "_name": "menu",
+          "_params": {
+            "logo": false,
+            "brand": "Mobirise",
+            "textColor": "#000000",
+            "items": [
+              {
+                "title": "Contact",
+                "href": "http://primpindogs.com/contact.html",
+                "active": false
+              },
+              {
+                "title": "Home",
+                "href": "http://primpindogs.com",
+                "active": true
+              }
+            ]
+          },
+          "logo": "images/logo.png"
+        },
+        {
+          "_name": "header1",
+          "_params": {
+            "bgImageRadio": true,
+            "bgImage": "file:///Users/parkin_thom/Sites/primpindogs/primpin_dog.jpg",
+            "parallax": true,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.5",
+            "bgColorRadio": false,
+            "bgColor": "#28324e"
+          },
+          "text": "\n                        <h1 style=\"text-align: center;\">Primpin Dogs</h1><h1>(352) 753-5858</h1><h1><br></h1><h1><br></h1>\n                    ",
+          "buttons": "",
+          "_styles": {
+            "H1": {
+              "font-size": "46px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_name": "footer1",
+          "text": "\n                <p>Websembly, LLC © 2015</p>\n            ",
+          "_params": {
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "bgColorRadio": true,
+            "bgColor": "#444444"
+          }
+        },
+        {
+          "_params": {
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "bgColorRadio": true,
+            "bgColor": "#fff"
+          },
+          "text": "\n                    <h2>WE LOVE PETS &amp; PETS LOVE US</h2><p>You pet (dog or cat) will be the envy of all the other pets in your neighborhood. &nbsp;We care for each animal with love and tenderness, providing the PRIMPIN-EST service in the area.</p>\n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" id=\"note-editor-63\">Call NOW: 352-753-5858</a>",
+          "_name": "msg-box3"
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "title": "Primpin Dogs Contact Page [352.753.5858]",
+        "meta_descr": "Primpin' Dogs is easy and convenient to The Villages, Lady Lake and Leesburg.  We care for your pet like YOU would.",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->"
+      },
+      "components": [
+        {
+          "_name": "menu",
+          "_params": {
+            "logo": false,
+            "brand": "Mobirise",
+            "textColor": "#000000",
+            "items": [
+              {
+                "title": "Contact",
+                "href": "http://primpindogs.com/contact.html",
+                "active": false
+              },
+              {
+                "title": "Home",
+                "href": "http://primpindogs.com",
+                "active": true
+              }
+            ]
+          },
+          "logo": "images/logo.png"
+        },
+        {
+          "_name": "header1",
+          "_params": {
+            "bgImageRadio": true,
+            "bgImage": "file:///Users/parkin_thom/Sites/primpindogs/primpin_dog.jpg",
+            "parallax": true,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.5",
+            "bgColorRadio": false,
+            "bgColor": "#28324e"
+          },
+          "text": "\n                        <h1 style=\"text-align: center;\">Primpin Dogs</h1><h1>(352) 753-5858</h1><h1><br></h1><h1><br></h1>\n                    ",
+          "buttons": "",
+          "_styles": {
+            "H1": {
+              "font-size": "46px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_name": "footer1",
+          "text": "\n                <p>Websembly, LLC © 2015</p>\n            ",
+          "_params": {
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "bgColorRadio": true,
+            "bgColor": "#444444"
+          }
+        },
+        {
+          "_params": {
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "bgColorRadio": true,
+            "bgColor": "#fff"
+          },
+          "text": "\n                    <h2>WE LOVE PETS &amp; PETS LOVE US</h2><p>You pet (dog or cat) will be the envy of all the other pets in your neighborhood. &nbsp;We care for each animal with love and tenderness, providing the PRIMPIN-EST service in the area.</p>\n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" id=\"note-editor-63\">Call NOW: 352-753-5858</a>",
+          "_name": "msg-box3"
+        }
+      ]
+    }
+  }
+}

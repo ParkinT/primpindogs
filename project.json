@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html"
+    "currentPage": "contact.html"
   },
   "pages": {
     "index.html": {
@@ -27,7 +27,7 @@
               {
                 "title": "Home",
                 "href": "http://primpindogs.com",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -83,6 +83,25 @@
           "text": "\n                    <h2>WE LOVE PETS &amp; PETS LOVE US</h2><p>You pet (dog or cat) will be the envy of all the other pets in your neighborhood. &nbsp;We care for each animal with love and tenderness, providing the PRIMPIN-EST service in the area.</p>\n                ",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" id=\"note-editor-63\">Call NOW: 352-753-5858</a>",
           "_name": "msg-box3"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "counters": false,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "\n                <h2 style=\"text-align: right;\">PLEASE SHARE</h2>\n            ",
+          "_name": "social-buttons1"
         }
       ]
     },
@@ -109,7 +128,7 @@
               {
                 "title": "Home",
                 "href": "http://primpindogs.com",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -127,7 +146,7 @@
             "bgColorRadio": false,
             "bgColor": "#28324e"
           },
-          "text": "\n                        <h1 style=\"text-align: center;\">Primpin Dogs</h1><h1>(352) 753-5858</h1><h1><br></h1><h1><br></h1>\n                    ",
+          "text": "\n                        \n                        \n                        <h1 style=\"text-align: center;\">Primpin Dogs</h1><h1 style=\"color: rgb(255, 255, 255); widows: 1;\">(352) 753-5858</h1><h1><br></h1><h1><br></h1><h1><br></h1>\n                    \n                    \n                    ",
           "buttons": "",
           "_styles": {
             "H1": {

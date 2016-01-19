@@ -3,6 +3,9 @@ primpindogs
 
 This client really did not know what she wants.  Actually, she did not even know this site was being constructed.
 
+> UPDATE January 2016.
+After maintaining this domain for two years it was not worth the 11 bucks to continue.  I allowed the registration to expire.
+
 The owner of this very small business in Lady Lake, Florida is apparently extremely naive or unaware of how the Internet operates.  When the business was opened (in a very small building on a rural road, off the main highway) the URL _primpindogs.com_ was painted in very, __very__ large letters on the front picture window.
 
 ![Cellphone photo of PrimpinDogs building](primpindogs.png)

@@ -20,6 +20,6 @@ Ultimately, I decided the right and proper thing to do was invest a few dollars 
 
 I am a [skilled software developer](https://github.com/ParkinT/HireMe) and have a lot of Web experience.  I am also the very first to admit that I have NO DESIGN SKILLS.  This is from a Free Template I located on the web.
 
-Pull Requests are welcome (and encouraged).  Thank you in advance.
+~~Pull Requests are welcome (and encouraged).  Thank you in advance.~~
 
 ===
